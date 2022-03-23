@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Solution Architect, Oracle Java EE7**
 
-- 💬 Ask me about **ReactJS, Angular, Laravel, Ionic, Unity**
+- 💬 Ask me about **ReactJS, React-Native, Angular, Laravel, Ionic**
 
 - 📫 How to reach me **edo.regolo01@gmail.com**
 
