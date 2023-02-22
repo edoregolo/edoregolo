@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoregolo&label=Profile%20views&color=0e75b6&style=flat" alt="edoregolo" /> </p>
 
-- 🔭 I’m currently working on **HugeAuth**
-
-- 🌱 I’m currently learning **AWS Solution Architect, Oracle Java EE7**
-
-- 💬 Ask me about **ReactJS, React-Native, Angular, Laravel, Ionic**
-
 - 📫 How to reach me **edo.regolo01@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
